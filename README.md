@@ -1,7 +1,7 @@
 maven插件开发helloworld
 ---
-- helloworl
-- test-plugin
+- helloworld 插件
+- test-plugin 插件测试
 
 ### 引用插件
 ```
